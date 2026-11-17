@@ -1,0 +1,6 @@
+(a,b) random networks N=2..6: 60/60 pass
+(c) N=2: B = prod eps on sub-chain * prod_(outside)(lam-alpha_k) for all i>j: True
+(c) N=3: B = prod eps on sub-chain * prod_(outside)(lam-alpha_k) for all i>j: True
+(c) N=4: B = prod eps on sub-chain * prod_(outside)(lam-alpha_k) for all i>j: True
+(c) N=5: B = prod eps on sub-chain * prod_(outside)(lam-alpha_k) for all i>j: True
+(c) N=6: B = prod eps on sub-chain * prod_(outside)(lam-alpha_k) for all i>j: True

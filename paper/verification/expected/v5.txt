@@ -1,0 +1,2 @@
+A = lambda**4 ; B = lambda*(exp(I*phi) + 1) + w*exp(I*phi)
+chi - [lam^4 - c((1+e^{i phi})lam + w e^{i phi})] = 0

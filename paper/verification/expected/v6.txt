@@ -1,0 +1,2 @@
+exponent (j-p+m)/m - (1-k/m) = 0
+edge height - log(|b|^{(j-p+m)/m} |d|^{k/m}) = 0

@@ -1,0 +1,4 @@
+(a) max |d<a>/dt - M<a>| on truncated Fock space: 2.327375768669319e-16
+(b) drift of one link: [[-varepsilon/2, varepsilon*exp(I*phi)], [0, -varepsilon/2]]
+(c) Schur complement minus link-model formula: [[0, 0], [0, 0]]
+(c) limit kappa'->oo: [[-varepsilon/2, varepsilon*exp(I*phi)], [0, -varepsilon/2]]

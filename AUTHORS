@@ -1,0 +1,17 @@
+ep-finder authors
+
+Karol Bartkiewicz <bark@amu.edu.pl> (maintainer)
+  Faculty of Physics and Astronomy, Adam Mickiewicz University, Poznan, Poland
+  Conceived the idea and developed the theory of the article, including Lemma 1, Theorem 1 and
+  their consequences, carried out the link-model and programming calculations, and wrote the
+  manuscript. Maintains this repository.
+
+Hubert Wojewoda
+  Faculty of Physics and Astronomy, Adam Mickiewicz University, Poznan, Poland
+  Developed and validated the numerical search for exceptional points in the ep-finder code
+  (ep_finder/), including the Gaussian-process-guided octree, and mapped the EP manifolds of the
+  ring and of the Perina two-mode model.
+
+Franco Nori
+  RIKEN, Wako-shi, Saitama, Japan, and Department of Physics, University of Michigan, Ann Arbor, USA
+  Took part in the scientific discussions and helped to prepare the manuscript.

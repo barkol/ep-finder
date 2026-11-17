@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ep-finder"
+version = "0.1.0"
+description = "Efficient exceptional point scanner for non-Hermitian matrices in 3D parameter space"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+authors = [
+    {name = "Hubert Wojewoda"},
+    {name = "Karol Bartkiewicz", email = "bark@amu.edu.pl"},
+]
+maintainers = [
+    {name = "Karol Bartkiewicz", email = "bark@amu.edu.pl"},
+]
+dependencies = [
+    "numpy>=1.20",
+    "scipy>=1.7",
+]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.5"]
+dev = ["pytest>=7.0"]
+paper = ["matplotlib>=3.5", "pillow>=9.0", "sympy>=1.10"]
+
+# Only the library is packaged; paper/ holds the scripts and data behind the article.
+[tool.setuptools]
+packages = ["ep_finder"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

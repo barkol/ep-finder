@@ -1,0 +1,6 @@
+tree mismatch: n,q,K,m,#U,#V = 3 2 4 3 1 2 ; poles whose V-disc is below one pixel: 2
+cases: 120 skipped (critical value within 15% of |c|): 15
+m == #U + #V - 1: 119 / 120
+m == 2#U - deg R + K: 120 / 120
+polynomial R: #V == 1: 40 / 40 ; m == n - K: 40 / 40
+nontrivial (m < n): 61

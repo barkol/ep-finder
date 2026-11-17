@@ -1,0 +1,7 @@
+(a) F' numerator = z^{L'-1}(L z^m + L') and |F(crit)| = (L/m)(L'/L)^{L'/m}: L=1..4, m=1..3 ok
+(b) max relative deviation of nonzero critical values from |c|_th: 1.5543122344752192e-15
+(c) critical points: [0, -4*d/(3*b)]  R(lam_*) = -256*d**3/(27*b**4)
+(c) general N: (L/m)(L'/L)^{L'/m} with L=N-1, m=1 equals N^N/(N-1)^{N-1}: ok
+(d) phi_c(w=1.0, |c|=1) = 1.0008 rad
+(d) phi_c(w=0.5, |c|=1) = 2.0439 rad
+(d) phi=pi: min gap 0.9274872110731565 vs sqrt2 (|c|w)^{1/4} = 0.9274872110731569
